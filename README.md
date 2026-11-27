@@ -1,3 +1,12 @@
+# Netflix-Style React Project Snapshot
+
+## Current repository status
+
+The package manifest describes a React/Firebase Netflix-clone project, but `src/` and `public/` are absent. Restore the matching source before using the existing installation instructions. Screenshots and live links below refer to the documented original project, not a verified deployment of this checkout.
+
+This documentation review did not run a build or verify the historical deployment links.
+
+## Original project documentation
 
 <h1 align="center">
   <img title="Netflix" src="https://fhsknightlife.com/wp-content/uploads/2020/04/uVASXqvMzyUrAPfSn9pMtxOC7s89ulzdDKBdtqCP.png" alt="NETFLIX Logo" width="400" />
@@ -321,5 +330,12 @@ Hat tip to everyone helped me to learn the techniques used in building this proj
 
 MIT License.
 
+## Committed files
 
+- `LICENSE`
+- `package-lock.json`
+- `package.json`
 
+## License
+
+MIT. See [LICENSE](LICENSE).
